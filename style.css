@@ -3,7 +3,13 @@ body {
 }   
 
 #card > img{
+<<<<<<< HEAD
+    width: 150px;
+    height: 150px;
+}
+=======
     width: 20px;
     height: 30px;
 }
 
+>>>>>>> 187ece87633629c8a819b8dd0c699ba9baa82fd9
