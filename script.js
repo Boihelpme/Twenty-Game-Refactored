@@ -10,4 +10,8 @@ function getCard() {
     document.getElementById("card").insertAdjacentHTML("beforeend", "<img src=images/" + r + suitArray[randomSuit] + ".jpg>")
 }
 
+
+
+
+
  
