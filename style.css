@@ -7,6 +7,13 @@ body {
     height: 150px;
 }
 
+#card {
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    text-align: center;
+}
+
 .Drag {
     color: white;
     font-size: 30px;
