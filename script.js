@@ -26,7 +26,7 @@ function user() {
     var B = getCard()
     var C = genNum()
     score = score + C
-    document.getElementById("paragraph").innerHTML = "User score is " + score; 
+    document.getElementById("paragraph").innerHTML = "User Score: " + score; 
     document.getElementById("card").insertAdjacentHTML("beforeend", "<img src=images/" + C + B + ".jpg>")
     return score
 
