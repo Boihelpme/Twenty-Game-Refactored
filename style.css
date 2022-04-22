@@ -3,7 +3,7 @@ body {
 }   
 #card > img{
     width: 150px;
-    height: 190px;
+    height: 150px;
 }
 
 #card {
@@ -12,24 +12,28 @@ body {
     justify-content: center;
     text-align: center;
 }
-.Cards2 {
-    color: white;
-    font-size: 30px;
-    background-color: red;
-    width: 200px;
-    height: 50px;
-}
+
 .Drag {
     color: white;
     font-size: 30px;
     background-color: green;
-    width: 170px;
-    height: 50px;
+    width: 100px;
+    height: 75px;
 }
+
+.Cards2 {
+    color: white;
+    font-size: 30px;
+    background-color: red;
+    width: 100px;
+    height: 120px;
+}
+
 .Reload2 {
     color: white;
     font-size: 30px;
-    background-color:  rgb(255, 166, 0);
+    background-color:  yellow;
     width: 100px;
     height: 50px;  
 }
+
