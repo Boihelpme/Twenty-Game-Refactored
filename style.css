@@ -1,13 +1,35 @@
 body {
     background-image: url(images/table.jpeg);
 }   
-
 #card > img{
-    width: 100px;
-    height: 150px;
+    width: 150px;
+    height: 190px;
 }
-h1 {
+
+#card {
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    text-align: center;
+}
+.Cards2 {
     color: white;
-    border-width: 100;
-    border-color: rgb(8, 53, 138);
+    font-size: 30px;
+    background-color: red;
+    width: 200px;
+    height: 50px;
+}
+.Drag {
+    color: white;
+    font-size: 30px;
+    background-color: green;
+    width: 170px;
+    height: 50px;
+}
+.Reload2 {
+    color: white;
+    font-size: 30px;
+    background-color:  rgb(255, 166, 0);
+    width: 100px;
+    height: 50px;  
 }
